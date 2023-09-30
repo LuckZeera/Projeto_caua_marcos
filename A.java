@@ -8,4 +8,5 @@ public class A {
   public void setA2(float A2) {this.A2 = A2;}
   public void MA1() {System.out.println("MA1");}
   public void MA2() {System.out.println("MA2");}
+  public void MA3() {System.out.println("Alteração a classe A partir do clone");}
 }
